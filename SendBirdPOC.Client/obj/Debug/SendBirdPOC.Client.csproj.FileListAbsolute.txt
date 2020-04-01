@@ -1,0 +1,15 @@
+C:\Users\sbiswal\source\repos\TokBoxPOC\SendBirdPOC.Client\bin\Debug\SendBirdPOC.Client.exe.config
+C:\Users\sbiswal\source\repos\TokBoxPOC\SendBirdPOC.Client\bin\Debug\SendBirdPOC.Client.exe
+C:\Users\sbiswal\source\repos\TokBoxPOC\SendBirdPOC.Client\bin\Debug\SendBirdPOC.Client.pdb
+C:\Users\sbiswal\source\repos\TokBoxPOC\SendBirdPOC.Client\obj\Debug\SendBirdPOC.Client.csprojAssemblyReference.cache
+C:\Users\sbiswal\source\repos\TokBoxPOC\SendBirdPOC.Client\obj\Debug\MainWindow.g.cs
+C:\Users\sbiswal\source\repos\TokBoxPOC\SendBirdPOC.Client\obj\Debug\App.g.cs
+C:\Users\sbiswal\source\repos\TokBoxPOC\SendBirdPOC.Client\obj\Debug\SendBirdPOC.Client_MarkupCompile.cache
+C:\Users\sbiswal\source\repos\TokBoxPOC\SendBirdPOC.Client\obj\Debug\SendBirdPOC.Client_MarkupCompile.lref
+C:\Users\sbiswal\source\repos\TokBoxPOC\SendBirdPOC.Client\obj\Debug\MainWindow.baml
+C:\Users\sbiswal\source\repos\TokBoxPOC\SendBirdPOC.Client\obj\Debug\SendBirdPOC.Client.g.resources
+C:\Users\sbiswal\source\repos\TokBoxPOC\SendBirdPOC.Client\obj\Debug\SendBirdPOC.Client.Properties.Resources.resources
+C:\Users\sbiswal\source\repos\TokBoxPOC\SendBirdPOC.Client\obj\Debug\SendBirdPOC.Client.csproj.GenerateResource.cache
+C:\Users\sbiswal\source\repos\TokBoxPOC\SendBirdPOC.Client\obj\Debug\SendBirdPOC.Client.csproj.CopyComplete
+C:\Users\sbiswal\source\repos\TokBoxPOC\SendBirdPOC.Client\obj\Debug\SendBirdPOC.Client.exe
+C:\Users\sbiswal\source\repos\TokBoxPOC\SendBirdPOC.Client\obj\Debug\SendBirdPOC.Client.pdb
